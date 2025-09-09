@@ -1,0 +1,14 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="GPLv3"
+
+[[mods]]
+modId="virtualwitcharrangement"
+version="1.20.1-1.0.0"
+#logoFile="logo.png" #optional
+displayName="Virtual Witch Arrangement"
+authors="Rinko1231"
+description='''
+Adjust the Eldritch Research Screen of Iron's Spellbooks for improved readability
+when many Eldritch spells are present.
+'''
